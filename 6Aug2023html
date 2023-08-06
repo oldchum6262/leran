@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset=UTF8>
+  <link=structure.css rel=stylesheet>
+  <title="html recap1">
+
+</head>
+<body>
+  <h1> A page to review some html</h1>
+<div id="div1">
+  <p>I'm just using this html document 
+recap some html and recall how to use 
+github</p>
+
+</div><!-- end of 'div1' -->
+
+</body>
+
+
+
+</html>
