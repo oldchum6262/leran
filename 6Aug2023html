@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset=UTF8>
-  <link=structure.css rel=stylesheet>
+  <link rel="stylesheet" type="text/css" href="style.css" >
   <title="html recap1">
 
 </head>
